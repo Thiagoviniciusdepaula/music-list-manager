@@ -15,4 +15,4 @@ jQuery
 
 Você pode acessá-lo e visualizá-lo do link abaixo:
 
-[**Ver Projeto**](file:///C:/Users/thiag/Downloads/projetoSalaThiagodePaula/projetoSalaThiagodePaula/index.html.html)
+file:///C:/Users/thiag/Downloads/projetoSalaThiagodePaula/projetoSalaThiagodePaula/index.html.html
