@@ -8,8 +8,12 @@ O sistema permite cadastrar músicas informando nome, álbum, duração e data d
 🚀 Tecnologias utilizadas
 
 HTML
+
 CSS
+
 JavaScript
+
 jQuery
+
 
 
