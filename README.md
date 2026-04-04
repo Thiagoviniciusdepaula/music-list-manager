@@ -11,8 +11,4 @@ CSS
 JavaScript
 jQuery
 
-## 🖥️ Visualize o Projeto
 
-Você pode acessá-lo e visualizá-lo do link abaixo:
-
-file:///C:/Users/thiag/Downloads/projetoSalaThiagodePaula/projetoSalaThiagodePaula/index.html.html
